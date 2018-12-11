@@ -15,7 +15,7 @@ try:
 except:
     pass
 
-physics_evolv_time = 0.023
+physics_evolv_time = 0.022
 physics_evolv_time_again = 0.010
 iteration_limit_for_sim = 25
 future_moves_to_sim = 6
